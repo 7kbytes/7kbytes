@@ -1,0 +1,11 @@
+/* Basic styling for page transition container */
+.page-transition-container {
+  position: absolute; /* Or fixed, depending on your layout */
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh; /* Ensure it covers the viewport */
+  overflow-x: hidden; /* Prevent horizontal scroll during animation */
+  /* Add padding-top to account for fixed navbar height */
+  padding-top: 70px; /* Adjust based on your Navbar's height */
+}

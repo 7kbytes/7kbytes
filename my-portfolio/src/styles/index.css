@@ -1,0 +1,19 @@
+/* Basic Reset and Font Imports */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto+Mono:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif; /* A modern, clean font */
+  line-height: 1.6;
+  background-color: #0f0f1c; /* Dark base background */
+  color: #e0e0e0; /* Light text color for contrast */
+}
+
+html {
+  scroll-behavior: smooth;
+}
