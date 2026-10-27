@@ -2,7 +2,7 @@
 
 > Product-focused developer building practical web platforms, mobile apps, and interactive digital experiences.
 
-I turn ideas into polished, working software—from product design and responsive interfaces to backend integrations, deployment, and ongoing iteration. My work spans commerce, sports management, property technology, logistics, marketplaces, and community platforms.
+I turn ideas into polished, working software, from product design and responsive interfaces to backend integrations, deployment, and ongoing iteration. My work spans commerce, sports management, property technology, logistics, marketplaces, and community platforms.
 
 ## Selected live products
 
@@ -27,6 +27,6 @@ I turn ideas into polished, working software—from product design and responsiv
 
 ## Current focus
 
-I enjoy building useful, high-quality products for real people—especially marketplaces, operational platforms, sports communities, commerce, and service businesses.
+I enjoy building useful, high-quality products for real people, especially marketplaces, operational platforms, sports communities, commerce, and service businesses.
 
 Browse the repositories below to see the work in progress and the systems behind these products.
